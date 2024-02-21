@@ -34,3 +34,15 @@ h2 {
 #algum-titulo {
     border-bottom: 4px solid green;
  }
+
+ .color-name {
+    color: rgb(83, 20, 220)
+ }
+
+ .hex {
+    color: #55a398
+ }
+
+ .hex-2 {
+    color: antiquewhite;
+ }
