@@ -6,3 +6,10 @@ padding-bottom: 500px;
 h3 {
 color: greenyellow;
 }
+/* algum comentario */
+/* classes.paragraph*/
+.paragraph {
+    background-color: black;
+    color:aqua;
+    padding: 5px;
+} 
